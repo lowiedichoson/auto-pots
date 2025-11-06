@@ -38,28 +38,31 @@
             this.header_label.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.header_label.AutoSize = true;
             this.header_label.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.header_label.Location = new System.Drawing.Point(52, 68);
-            this.header_label.MaximumSize = new System.Drawing.Size(300, 0);
+            this.header_label.Location = new System.Drawing.Point(62, 56);
+            this.header_label.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.header_label.MaximumSize = new System.Drawing.Size(225, 0);
             this.header_label.Name = "header_label";
-            this.header_label.Size = new System.Drawing.Size(299, 48);
+            this.header_label.Size = new System.Drawing.Size(182, 36);
             this.header_label.TabIndex = 1;
-            this.header_label.Text = "Auto pressing of QWER is invoked by holding right mouse button";
+            this.header_label.Text = "Auto pressing of QWER is invoked by pressing F8";
             this.header_label.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // panel1
             // 
             this.panel1.Controls.Add(this.header_label);
-            this.panel1.Location = new System.Drawing.Point(12, 12);
+            this.panel1.Location = new System.Drawing.Point(9, 10);
+            this.panel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(408, 179);
+            this.panel1.Size = new System.Drawing.Size(306, 145);
             this.panel1.TabIndex = 2;
             // 
             // main_form
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(432, 203);
+            this.ClientSize = new System.Drawing.Size(324, 165);
             this.Controls.Add(this.panel1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "main_form";
             this.Text = "Basic - Auto Potion V1.0";
             this.panel1.ResumeLayout(false);

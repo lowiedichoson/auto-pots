@@ -9,3 +9,14 @@ D:\LDD Files\auto-pots\auto-pots\obj\Debug\auto-pots.csproj.CoreCompileInputs.ca
 D:\LDD Files\auto-pots\auto-pots\obj\Debug\auto-pots.exe
 D:\LDD Files\auto-pots\auto-pots\obj\Debug\auto-pots.pdb
 D:\LDD Files\auto-pots\auto-pots\obj\Debug\auto-pots.exe.config
+D:\auto-pots\auto-pots\bin\Debug\auto-pots.exe.config
+D:\auto-pots\auto-pots\bin\Debug\auto-pots.exe
+D:\auto-pots\auto-pots\bin\Debug\auto-pots.pdb
+D:\auto-pots\auto-pots\obj\Debug\auto-pots.csproj.AssemblyReference.cache
+D:\auto-pots\auto-pots\obj\Debug\auto-pots.exe.config
+D:\auto-pots\auto-pots\obj\Debug\auto_pots.main_form.resources
+D:\auto-pots\auto-pots\obj\Debug\auto_pots.Properties.Resources.resources
+D:\auto-pots\auto-pots\obj\Debug\auto-pots.csproj.GenerateResource.cache
+D:\auto-pots\auto-pots\obj\Debug\auto-pots.csproj.CoreCompileInputs.cache
+D:\auto-pots\auto-pots\obj\Debug\auto-pots.exe
+D:\auto-pots\auto-pots\obj\Debug\auto-pots.pdb

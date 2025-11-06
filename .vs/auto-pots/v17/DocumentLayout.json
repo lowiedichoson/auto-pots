@@ -1,26 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\LDD Files\\auto-pots\\",
+  "WorkspaceRootPath": "D:\\auto-pots\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0C18E3B-BE4C-425E-A6C2-F15692BC25E4}|auto-pots\\auto-pots.csproj|D:\\LDD Files\\auto-pots\\auto-pots\\globalmousehook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0C18E3B-BE4C-425E-A6C2-F15692BC25E4}|auto-pots\\auto-pots.csproj|solutionrelative:auto-pots\\globalmousehook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0C18E3B-BE4C-425E-A6C2-F15692BC25E4}|auto-pots\\auto-pots.csproj|D:\\LDD Files\\auto-pots\\auto-pots\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0C18E3B-BE4C-425E-A6C2-F15692BC25E4}|auto-pots\\auto-pots.csproj|solutionrelative:auto-pots\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0C18E3B-BE4C-425E-A6C2-F15692BC25E4}|auto-pots\\auto-pots.csproj|D:\\LDD Files\\auto-pots\\auto-pots\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B0C18E3B-BE4C-425E-A6C2-F15692BC25E4}|auto-pots\\auto-pots.csproj|solutionrelative:auto-pots\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0C18E3B-BE4C-425E-A6C2-F15692BC25E4}|auto-pots\\auto-pots.csproj|D:\\LDD Files\\auto-pots\\auto-pots\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0C18E3B-BE4C-425E-A6C2-F15692BC25E4}|auto-pots\\auto-pots.csproj|d:\\auto-pots\\auto-pots\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0C18E3B-BE4C-425E-A6C2-F15692BC25E4}|auto-pots\\auto-pots.csproj|solutionrelative:auto-pots\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0C18E3B-BE4C-425E-A6C2-F15692BC25E4}|auto-pots\\auto-pots.csproj|d:\\ldd files\\auto-pots\\auto-pots\\keyboardsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0C18E3B-BE4C-425E-A6C2-F15692BC25E4}|auto-pots\\auto-pots.csproj|solutionrelative:auto-pots\\keyboardsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0C18E3B-BE4C-425E-A6C2-F15692BC25E4}|auto-pots\\auto-pots.csproj|D:\\auto-pots\\auto-pots\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C18E3B-BE4C-425E-A6C2-F15692BC25E4}|auto-pots\\auto-pots.csproj|solutionrelative:auto-pots\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|auto-pots||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C18E3B-BE4C-425E-A6C2-F15692BC25E4}|auto-pots\\auto-pots.csproj|D:\\auto-pots\\auto-pots\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0C18E3B-BE4C-425E-A6C2-F15692BC25E4}|auto-pots\\auto-pots.csproj|solutionrelative:auto-pots\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +25,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\LDD Files\\auto-pots\\auto-pots\\Form1.cs",
+              "DocumentMoniker": "D:\\auto-pots\\auto-pots\\Form1.cs",
               "RelativeDocumentMoniker": "auto-pots\\Form1.cs",
-              "ToolTip": "D:\\LDD Files\\auto-pots\\auto-pots\\Form1.cs",
+              "ToolTip": "D:\\auto-pots\\auto-pots\\Form1.cs",
               "RelativeToolTip": "auto-pots\\Form1.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAmwB0AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwIAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T01:06:57.253Z",
               "IsPinned": true,
@@ -48,58 +43,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\LDD Files\\auto-pots\\auto-pots\\Form1.cs",
-              "RelativeDocumentMoniker": "auto-pots\\Form1.cs",
-              "ToolTip": "D:\\LDD Files\\auto-pots\\auto-pots\\Form1.cs [Design]",
-              "RelativeToolTip": "auto-pots\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T01:06:34.062Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\LDD Files\\auto-pots\\auto-pots\\Form1.Designer.cs",
+              "DocumentMoniker": "D:\\auto-pots\\auto-pots\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "auto-pots\\Form1.Designer.cs",
-              "ToolTip": "D:\\LDD Files\\auto-pots\\auto-pots\\Form1.Designer.cs",
+              "ToolTip": "D:\\auto-pots\\auto-pots\\Form1.Designer.cs",
               "RelativeToolTip": "auto-pots\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T01:08:18.136Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GlobalMouseHook.cs",
-              "DocumentMoniker": "D:\\LDD Files\\auto-pots\\auto-pots\\GlobalMouseHook.cs",
-              "RelativeDocumentMoniker": "auto-pots\\GlobalMouseHook.cs",
-              "ToolTip": "D:\\LDD Files\\auto-pots\\auto-pots\\GlobalMouseHook.cs",
-              "RelativeToolTip": "auto-pots\\GlobalMouseHook.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\auto-pots\\auto-pots\\Form1.cs",
+              "RelativeDocumentMoniker": "auto-pots\\Form1.cs",
+              "ToolTip": "D:\\auto-pots\\auto-pots\\Form1.cs [Design]",
+              "RelativeToolTip": "auto-pots\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T01:19:02.13Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T01:06:34.062Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "KeyboardSender.cs",
-              "DocumentMoniker": "D:\\LDD Files\\auto-pots\\auto-pots\\KeyboardSender.cs",
-              "RelativeDocumentMoniker": "auto-pots\\KeyboardSender.cs",
-              "ToolTip": "D:\\LDD Files\\auto-pots\\auto-pots\\KeyboardSender.cs",
-              "RelativeToolTip": "auto-pots\\KeyboardSender.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAA3wFsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T01:14:20.356Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "auto-pots",
+              "DocumentMoniker": "D:\\auto-pots\\auto-pots\\auto-pots.csproj",
+              "RelativeDocumentMoniker": "auto-pots\\auto-pots.csproj",
+              "ToolTip": "D:\\auto-pots\\auto-pots\\auto-pots.csproj",
+              "RelativeToolTip": "auto-pots\\auto-pots.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-06T11:25:41.65Z"
             }
           ]
         }
