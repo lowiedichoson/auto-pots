@@ -115,8 +115,8 @@ namespace auto_pots
 
         private async Task LoopKeys(CancellationToken token)
         {
-            //ushort[] scancodes = { 0x10, 0x11, 0x12, 0x13 }; // qwer
-            ushort[] scancodes = { 0x02, 0x03, 0x04, 0x05 }; // 1234 
+            ushort[] scancodes = { 0x10, 0x11, 0x12, 0x13 }; // qwer
+            //ushort[] scancodes = { 0x02, 0x03, 0x04, 0x05 }; // 1234 
 
             while (!token.IsCancellationRequested)
             {
